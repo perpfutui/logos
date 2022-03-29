@@ -1,1 +1,2 @@
 logos
+http://cryptoicons.co/
